@@ -1,6 +1,6 @@
 <h1 align="center">Parixit Sanghani</h1>
 <p align="center">
-  Backend & Platform Engineer @ Amazon Robotics
+  Software Developer Engineer
 </p>
 
 <p align="center">
@@ -20,7 +20,10 @@ I build scalable backend systems and cloud-native infrastructure with a focus on
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,python,typescript,nodejs,react,docker,kubernetes,aws,postgres,redis,git,linux" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=go,java,python,typescript,nodejs,react,docker,kubernetes,gcp,aws,postgres,redis,git,linux" alt="Tech stack icons"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
 </p>
 
 ## Areas of Interest
