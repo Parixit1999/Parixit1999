@@ -22,7 +22,7 @@
 
 Hi, I'm Parixit. I'm a software engineer based in Boston.
 
-These days I spend most of my time at Nebula-NLU as the founding engineer, working on the backend for an AI product in the legal space. It's the kind of role where you touch a bit of everything — search, retrieval, cloud infra, a little frontend when needed — and I've been enjoying that variety.
+These days I spend most of my time at [Nebula-NLU](https://nebula-nlu.com/) as the founding engineer, working on the backend for their AI products in the legal space — currently [Vera Rubin](https://verarubin.studio/) and [Noether](https://noether.studio/). It's the kind of role where you touch a bit of everything — search, retrieval, cloud infra, a little frontend when needed — and I've been enjoying that variety.
 
 Before this I spent a couple of years at Amazon Robotics building end-to-end MLOps pipelines for the models that power their warehouse robotics — training infrastructure, artifact versioning, deployment automation, and the CI/CD tooling that ties it all together.
 
