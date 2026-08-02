@@ -26,6 +26,8 @@ These days I spend most of my time at Nebula-NLU as the founding engineer, worki
 
 Before this I spent a couple of years at Amazon Robotics building end-to-end MLOps pipelines for the models that power their warehouse robotics — training infrastructure, artifact versioning, deployment automation, and the CI/CD tooling that ties it all together.
 
+I did my master's at Rochester Institute of Technology, where I focused on AI and distributed systems — the two threads that still shape most of what I work on today.
+
 I care about clean system design and the kind of software that quietly does its job well. Always learning, always tinkering.
 
 ## Currently exploring
