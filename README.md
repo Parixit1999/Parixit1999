@@ -20,18 +20,21 @@
 
 ## About
 
-Lead Founding Engineer at **Nebula-NLU**, building an AI legal-discovery agent on **Vertex AI**, **BigQuery**, and **Google Cloud Run** — semantic search + RAG that surfaces critical case disclosures with **90% higher accuracy** than keyword systems.
+Hi, I'm Parixit. I'm a software engineer based in Boston.
 
-Previously at **Amazon Robotics**, where I shipped MLOps infrastructure that hit **99.9% inference uptime** and cut cloud costs by **$1.1M annually**.
+These days I spend most of my time at Nebula-NLU as the founding engineer, working on the backend for an AI product in the legal space. It's the kind of role where you touch a bit of everything — search, retrieval, cloud infra, a little frontend when needed — and I've been enjoying that variety.
 
-I care about distributed systems design, cloud automation, and shipping production-ready platforms that are reliable, measurable, and easy for teams to operate.
+Before this I was at Amazon Robotics for a couple of years, mostly on the systems that trained and shipped ML models for warehouse robots. A lot of my energy went into making the boring parts (deployments, pipelines, cost, uptime) feel less scary for the researchers using them.
+
+Outside of work I'm just someone who likes building things that are simple and don't wake anyone up at 3 AM. Always figuring things out, always learning.
 
 ## Currently exploring
 
 - Frontier model evaluation
-- LLM agent design (tool-use, planning, evals)
-- RAG and hybrid retrieval systems
-- Observability for ML pipelines
+- LLM agents
+- Retrieval systems
+- ML observability
+- Cloud infrastructure
 
 ## Tech stack
 
