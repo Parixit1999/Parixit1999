@@ -1,6 +1,6 @@
 <h1 align="center">Parixit Sanghani</h1>
 <p align="center">
-  Lead Founding Engineer at Nebula-NLU · ex-Amazon Robotics
+  AI Developer at MSMM Engineering · ex-Nebula-NLU · ex-Amazon Robotics
 </p>
 
 <p align="center">
@@ -22,9 +22,11 @@
 
 Hi, I'm Parixit. I'm a software engineer based in Boston.
 
-These days I spend most of my time at [Nebula-NLU](https://nebula-nlu.com/) as the founding engineer, working on the backend for their AI products in the legal space — currently [Vera Rubin](https://verarubin.studio/) and [Noether](https://noether.studio/). It's the kind of role where you touch a bit of everything — search, retrieval, cloud infra, a little frontend when needed — and I've been enjoying that variety.
+These days I'm at **MSMM Engineering** as an AI Developer, building **BlueprintAI** — an AWS Bedrock-powered system that turns engineering design blueprints into a queryable knowledge base, so engineers at the City of New Orleans and the Sewerage & Water Board can interrogate millions of design documents in natural language.
 
-Before this I spent a couple of years at Amazon Robotics building end-to-end MLOps pipelines for the models that power their warehouse robotics — training infrastructure, artifact versioning, deployment automation, and the CI/CD tooling that ties it all together.
+Before that I was the founding engineer at [Nebula-NLU](https://nebula-nlu.com/), where I built the backend for their AI products in the legal space — [Vera Rubin](https://verarubin.studio/) and [Noether](https://noether.studio/). Semantic search, distributed RAG pipelines, event-driven ingestion on GCP, and the kind of role where you touch a bit of everything.
+
+Before that, a couple of years at Amazon Robotics building end-to-end MLOps pipelines for the models that power their warehouse robotics — training infrastructure, artifact versioning, deployment automation, and the CI/CD tooling that ties it all together.
 
 I did my master's at Rochester Institute of Technology, where I focused on AI and distributed systems — the two threads that still shape most of what I work on today.
 
@@ -44,8 +46,9 @@ I care about clean system design and the kind of software that quietly does its 
   <img src="https://skillicons.dev/icons?i=go,java,python,typescript,nodejs,react,docker,kubernetes,gcp,aws,postgres,redis,git,linux" alt="Tech stack icons"/>
 </p>
 <p>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/AlloyDB-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="AlloyDB"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
