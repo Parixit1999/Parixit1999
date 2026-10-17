@@ -22,7 +22,7 @@
 
 Hi, I'm Parixit. I'm a software engineer based in Boston.
 
-These days I'm at **MSMM Engineering** as an AI Developer, building **BlueprintAI** — an AWS Bedrock-powered system that turns engineering design blueprints into a queryable knowledge base, so engineers at the City of New Orleans and the Sewerage & Water Board can interrogate millions of design documents in natural language.
+These days I'm at **MSMM Engineering** as an AI Developer, building AWS Bedrock–powered systems that turn complex engineering documents into queryable knowledge bases — so engineers can interrogate millions of design documents in natural language instead of hunting through PDFs.
 
 Before that I was the founding engineer at [Nebula-NLU](https://nebula-nlu.com/), where I built the backend for their AI products in the legal space — [Vera Rubin](https://verarubin.studio/) and [Noether](https://noether.studio/). Semantic search, distributed RAG pipelines, event-driven ingestion on GCP, and the kind of role where you touch a bit of everything.
 
