@@ -1,6 +1,6 @@
 # Hi, I'm Parixit
 
-I'm a software engineer. Most of my work is backend systems and the infrastructure that AI products run on.
+I'm a software engineer based in New Orleans. Most of my work is backend systems and the infrastructure that AI products run on.
 
 Right now I'm an AI Developer at MSMM Engineering. I build tools for engineers and the U.S. Army, and integrate AI products into the systems they already use.
 
