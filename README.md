@@ -2,7 +2,7 @@
 
 I'm a software engineer based in New Orleans. Most of my work is backend systems and the infrastructure that AI products run on.
 
-Right now I'm an AI Developer at MSMM Engineering. I build tools for engineers and the U.S. Army, and integrate AI products into the systems they already use.
+Right now I'm an AI Developer at MSMM Engineering. I build tools for engineers and the US government, and integrate AI products into the systems they already use.
 
 Before MSMM, I was the founding engineer at [Nebula-NLU](https://nebula-nlu.com/). I built the backend for their legal research products, [Vera Rubin](https://verarubin.studio/) and [Noether](https://noether.studio/), and spent most of my time on semantic search and the pipeline that brings legal documents in on GCP.
 
